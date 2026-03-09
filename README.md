@@ -31,4 +31,4 @@ automations that save teams hours of manual work every week.
 - 💼 Open to AI & Automation roles where tech meets business strategy
 
 ## 📫 Let's Connect
-Open to exciting opportunities in AI, Automation & PropTech!
+Open to exciting opportunities in AI, Automations!
