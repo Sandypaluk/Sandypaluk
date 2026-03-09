@@ -1,6 +1,6 @@
 # Hi, I'm Sandra 👋
 
-I'm a Data Scientist transitioning into AI & Automation — I build smart tools 
+I'm a Data Scientist, and AI & Automation — I build smart tools 
 that turn AI into real operational impact, not just buzzwords.
 
 ## 🤖 What I'm Building
@@ -25,7 +25,7 @@ automations that save teams hours of manual work every week.
 - 🤖 Currently building AI-native tools and automations
 - 🌍 Based in Germany | English & German
 - ## 💼 Previous Experience
-- 🚀 Business Development & GTM Strategy
+- 🚀 Business Development, Operations & GTM Strategy
 - 🎯 Startup Advisory
 - 📈 I bridge the gap between technical AI solutions and real business outcomes
 - 💼 Open to AI & Automation roles where tech meets business strategy
