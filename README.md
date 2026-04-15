@@ -1,6 +1,6 @@
 # Hi, I'm Sandra 👋
 
-I'm a Data Scientist, and AI & Automation — I build smart tools 
+I'm a Data Scientist, and AI & Automation specialist with 7+ years of experience in business development and operations. I build smart tools 
 that turn AI into real operational impact, not just buzzwords.
 
 ## 🤖 What I'm Building
